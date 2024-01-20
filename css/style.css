@@ -43,12 +43,12 @@ address {
 }
 .logo-header .logo-header-two:hover,
 .logo-header .logo-header-two:focus{
-  color: #404bbf
+  color: #404bbf;
 }
 
 
 .link {
-  color: var(--NAVY-BLUE, #2e2f42);
+  color:#2e2f42;
   font-family: Roboto;
   font-size: 16px;
   font-style: normal;
