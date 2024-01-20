@@ -41,6 +41,9 @@ address {
 .page-link .link:focus {
   color: #404bbf;
 }
+.link{
+  color:#2e2f42;
+}
 .logo-header .logo-header-two:hover,
 .logo-header .logo-header-two:focus{
   color: #404bbf;
@@ -114,7 +117,7 @@ address {
 .strategy-h {
   font-weight: 500;
   font-size: 20px;
-  line-height: 1.2
+  line-height: 1.2;
   color: #2e2f42;
   letter-spacing:0.02em;
 }
