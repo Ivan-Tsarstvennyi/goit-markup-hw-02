@@ -96,7 +96,7 @@ address {
 .button-main-order:focus {
   background-color: #404bbf;
 }
-.informattion-h {
+.strategy-h {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -108,12 +108,16 @@ address {
   line-height: 1.11;
   text-align: center;
   text-transform: capitalize;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .h-portfolio {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
   text-transform: capitalize;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .information-paragraph {
   letter-spacing: 0.02em;
