@@ -46,6 +46,11 @@ address {
   color: #404bbf;
 }
 
+.link-contacts:hover,
+.link-contacts:focus{
+  color: #404bbf
+}
+
 
 .link {
   color:#2e2f42;
@@ -105,9 +110,9 @@ address {
 .strategy-h {
   font-weight: 500;
   font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
+  line-height: 1.2
   color: #2e2f42;
+  letter-spacing:0.02em;
 }
 .h-team {
   font-size: 36px;
