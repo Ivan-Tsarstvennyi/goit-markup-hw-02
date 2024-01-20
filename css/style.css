@@ -1,5 +1,5 @@
 body {
-  font-family: "Roboto": sans-serif;
+  font-family: "Roboto", sans-serif, 
   color: #434455;
   background-color: #ffffff;
 }
@@ -29,6 +29,10 @@ a {
   line-height:  1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
+}
+.logo-header:hover,
+.logo-header:focus{
+  color: #404bbf;
 }
 address{
   font-style: normal
@@ -60,6 +64,7 @@ color: #ffffff;
 .link {
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color:  #434455;
 }
 
 .main {
@@ -91,7 +96,7 @@ line-height: 1.07;
 .button-main-order:focus {
   background-color: #404BBF;
 }
-.information-h2 {
+.informattion-h2 {
  font-weight: 500 ;
   line-height: 1.2;
   font-size: 20px;
@@ -114,15 +119,8 @@ line-height: 1.07;
   line-height: 1.5;
   letter-spacing: 0.02px;
 }
-.portfolio{
-  line-height: 1.11;
-  font-size: 36px ;
-  text-align: center;
-  letter-spacing: 0.02em;
-  text-transform: capitalize;
-  color:#2e2f42;
-}
-.portfolio-1{
+
+.portfolio-abzac{
   font-size: 20px;
     font-weight: 500;
   line-height: 1.2;
@@ -148,17 +146,7 @@ line-height: 1.07;
 .site-apps{
   background-color: #F4F4FD;
 }
-.team-h2 {
-  color: #2e2f42;
-  text-align: center;
-  font-family: Roboto;
-  font-size: 36px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: 1.11;
-  letter-spacing: 0.02em;
-  text-transform: capitalize;
-}
+
 .team-name{
   line-height: 1.2;
    font-weight: 500;
@@ -190,7 +178,7 @@ footer {
   text-transform: uppercase;
   
 }
-.footer-logo-2 {
+.footer-logo-studio {
   color:#f4f4fd;
   line-height: 1.5;
   letter-spacing: 0.54px;
