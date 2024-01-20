@@ -179,11 +179,14 @@ address {
 }
 
 .team-name {
-  line-height: 1.2;
   font-weight: 500;
   font-size: 20px;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+}
+.link-studio{
+  color: #2e2f42 ;
 }
 .img-team {
   background: url(<path-to-image>),
